@@ -1,6 +1,6 @@
-# 🚀 Proyecto MVC Simple: WebNova - Gestión de Usuarios y Productos
+#  Proyecto MVC Simple: WebNova - Gestión de Usuarios y Productos
 
-## 📝 Descripción General
+##  Descripción General
 
 Este proyecto implementa un sistema básico de gestión de usuarios (Administradores) y productos (Usuarios) utilizando el patrón de arquitectura **Modelo-Vista-Controlador (MVC)** en PHP.
 
@@ -21,7 +21,7 @@ Para ejecutar este proyecto, necesitas un entorno de desarrollo web:
 
 ---
 
-## 🚀 Guía de Instalación y Configuración
+##  Guía de Instalación y Configuración
 
 Sigue estos pasos para poner el proyecto en funcionamiento:
 
