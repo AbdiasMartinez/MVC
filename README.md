@@ -10,7 +10,7 @@ El objetivo principal es demostrar la correcta aplicación del patrón MVC y la 
 
 ---
 
-## 🛠️ Requisitos del Sistema
+## Requisitos del Sistema
 
 Para ejecutar este proyecto, necesitas un entorno de desarrollo web:
 
